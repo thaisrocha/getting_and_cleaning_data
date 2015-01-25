@@ -1,4 +1,6 @@
-#The script run_analysis.R performs the 5 steps described in the course project's definition.
+#Code Book
+
+The script run_analysis.R performs the 5 steps described in the course project's definition.
 
 Step 1 - the  sets training and test are merged using rbind() function to create one data set(X, Y and Subject).
 
