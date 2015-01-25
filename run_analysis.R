@@ -52,5 +52,5 @@ for (Subject in 1:numSubjects) {
         result[row, 3:numCols] <- colMeans(tmp[, 3:numCols])
         row = row+1
     }
-}
+} 
 write.table(result, "data_average.txt", row.name=FALSE)
