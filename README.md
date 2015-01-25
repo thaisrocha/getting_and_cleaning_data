@@ -1,4 +1,4 @@
-# getting_and_cleaning_data
+# Getting and Cleaning Data
 
 The repository contains the code and the documentation used in the Getting and Cleaning Data module.
 
