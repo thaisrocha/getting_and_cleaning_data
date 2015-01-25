@@ -37,6 +37,7 @@ clean <- cbind(Subject, Y, X)
 write.table(clean, "clean_data.txt")
 
 # From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject
+
 subjectunique = unique(Subject)[,1]
 subjectnum = length(unique(Subject)[,1])
 activitynum = length(activities[,1])
